@@ -8,42 +8,62 @@ Projects from ElectroScript: Arduino, ecommerce systems and real-world developme
 
 Recreating iconic songs using Arduino and a buzzer.
 
+---
+
 ### 🔹 Blue Bird (Naruto Opening 3)
 
 This project recreates the **Blue Bird melody from Naruto** using Arduino.
 
 #### 📌 Includes:
 - Arduino code (.ino)
-- pitches
+- Pitches (notes)
 - Circuit connection (buzzer wiring)
 
 #### ⚡ Components:
-- Arduino
-- Passive buzzer
-- Jumper wires
-- Protoboard
+- Arduino  
+- Passive buzzer  
+- Jumper wires  
+- Protoboard  
 
 #### 🔌 Connection:
-- VCC → 5V
-- GND → GND
-- Signal → Pin 8 (or configured pin)
+- VCC → 5V  
+- GND → GND  
+- Signal → Pin 8 (or configured pin)  
 
 #### ▶️ Watch the video:
 https://youtube.com/shorts/x_wjLZFllCE
 
+#### 📷 Circuit:
+![Blue Bird Circuit](Blue-Bird/Conexiones_Buzzer.png)
+
 ---
 
-## 📷 Circuit Diagram
-Blue-Bird/Conexiones_Buzzer.png
+### 🔹 Doki Doki Literature Club
+
+Recreation of a melody from **Doki Doki Literature Club** using Arduino and a buzzer.
+
+#### 📌 Includes:
+- Arduino code (.ino)
+- Circuit connection
+
+#### ▶️ Watch the video:
+https://youtube.com/shorts/42DYyWMsL6c
+
+---
+
+## 🎶 Available melodies
+
+- Blue Bird (Naruto)  
+- Doki Doki Literature Club  
 
 ---
 
 ## 💡 About this project
 
 This repository contains practical experiments combining:
-- Electronics
-- Programming
-- Real-world development
+- Electronics  
+- Programming  
+- Real-world development  
 
 ---
 
