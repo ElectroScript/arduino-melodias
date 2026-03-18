@@ -34,7 +34,7 @@ This project recreates the **Blue Bird melody from Naruto** using Arduino.
 https://youtube.com/shorts/x_wjLZFllCE
 
 #### 📷 Circuit:
-![Blue Bird Circuit](Blue-Bird/Conexiones_Buzzer.png)
+![Blue Bird Circuit](Blue_Bird/Conexiones_Buzzer.png)
 
 ---
 
